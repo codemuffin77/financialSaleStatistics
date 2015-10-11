@@ -1,0 +1,15 @@
+M.Qian		1	893
+B.Warren	1	343.88
+U.Rutgers	3	903
+P.Washing	2	893.06
+M.Qian		2	949
+B.Warren	4	892.43
+U.Rutgers	4	895
+U.Rutgers	2	492.87
+P.Washing	5	892.66
+M.Qian		2	322
+M.Qian		3	494
+B.Warren	4	923.13
+U.Rutgers	5	223
+U.Rutgers	3	783
+P.Washing	2	884.45
